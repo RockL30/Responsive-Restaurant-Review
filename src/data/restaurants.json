@@ -1,0 +1,110 @@
+[
+    {
+        "id": "restaurant_bounds",
+        "restaurantName": "Restaurant OUT OF BOUNDS",
+        "address": "Adress Restaurant OUT OF BOUNDS",
+        "lat": 38.716670,
+        "long": -9.133330,
+        "imageUrl": "https://placehold.co/600x400?text=Out+of+bounds",
+        "ratings": [
+            {
+                "stars": 3,
+                "comment": "Beautiful garden seating, average food."
+            },
+            {
+                "stars": 4,
+                "comment": "A nice place for brunch, great pastries."
+            }
+        ]
+    },
+    {
+        "id": "restaurant_one",
+        "restaurantName": "Restaurant One",
+        "address": "Adress Restaurant One",
+        "lat": 38.725011,
+        "long": -9.133345,
+        "imageUrl": "https://placehold.co/600x400?text=Restaurant+One",
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "Excellent seafood, great ambiance!"
+            },
+            {
+                "stars": 4,
+                "comment": "Loved the oysters, but the service was slow."
+            }
+        ]
+    },
+    {
+        "id": "restaurant_two",
+        "restaurantName": "Restaurant Two",
+        "address": "Adress Restaurant Two",
+        "lat": 38.724571,
+        "long": -9.131771,
+        "imageUrl": "https://placehold.co/600x400?text=Restaurant+Two",
+        "ratings": [
+            {
+                "stars": 3,
+                "comment": "Beautiful garden seating, average food."
+            },
+            {
+                "stars": 4,
+                "comment": "A nice place for brunch, great pastries."
+            }
+        ]
+    },
+    {
+        "id": "restaurant_three",
+        "restaurantName": "Restaurant Three",
+        "address": "Adress Restaurant Three",
+        "lat": 38.724188,
+        "long": -9.132267,
+        "imageUrl": "https://placehold.co/600x400?text=Restaurant+Three",
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "Amazing ambiance and strong coffee!"
+            },
+            {
+                "stars": 4,
+                "comment": "Great spot for late night snacks."
+            }
+        ]
+    },
+    {
+        "id": "restaurant_four",
+        "restaurantName": "Restaurant Four",
+        "address": "Adress Restaurant Four",
+        "lat": 38.724788,
+        "long": -9.132567,
+        "imageUrl": "https://placehold.co/600x400?text=Restaurant+Four",
+        "ratings": [
+            {
+                "stars": 3,
+                "comment": "Wonderful sushi, very authentic!"
+            },
+            {
+                "stars": 2,
+                "comment": "Best Japanese cuisine in town!"
+            }
+        ]
+    },
+    {
+        "id": "restaurant_five",
+        "restaurantName": "Restaurant Five",
+        "address": "Adress Restaurant Five",
+        "lat": 38.724388,
+        "long": -9.132667,
+        "imageUrl": "https://placehold.co/600x400?text=Restaurant+Five",
+        "ratings": [
+            {
+                "stars": 2,
+                "comment": "Wonderful sushi, very authentic!"
+            },
+            {
+                "stars": 1,
+                "comment": "Best Japanese cuisine in town!"
+            }
+        ]
+    }
+]
