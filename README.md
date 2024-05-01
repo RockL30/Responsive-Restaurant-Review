@@ -6,9 +6,9 @@
 - Step 2 - Add restaurants and reviews
 - Step 3 - Integration with Google Places API
 
-## Dependencies
+## Installing 
 
-### Right Place
+### Run the terminal on the correct place
 
 - be sure that you are in the right place before running the terminal
 
