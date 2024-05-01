@@ -2,11 +2,9 @@
 
 ## Requirements
 
-- Dependencies
-- Objectives
-  - Step 1 - Restaurants
-  - Step 2 - Add restaurants and reviews
-  - Step 3 - Integration with Google Places API
+- Step 1 - Restaurants
+- Step 2 - Add restaurants and reviews
+- Step 3 - Integration with Google Places API
 
 ## Dependencies
 
