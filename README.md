@@ -34,7 +34,7 @@
 
 ### Adjust Limitations
 
-- go to MapComponent.js, located in src/components/GoogleMaps, and change the value for maxRequests on the line 32.
+- go to MapComponent.js, located in src/components/GoogleMaps, and change the value of maxRequests on the line 32.
 
 Ex: maxRequests = 40;
 
